@@ -1,2 +1,9 @@
-# app-dev
-My first repository
+# MY FAVORITE MOVIE
+## *SPIDERMAN: HOMECOMING*
+![Spider-Man Homecoming Poster](https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_Homecoming_poster.jpg)
+
+*Spider-Man: Homecoming* is a 2017 American superhero film based on the Marvel Comics character Spider-Man, produced by Columbia Pictures, Marvel Studios, and Pascal Pictures, and distributed by Sony Pictures Releasing. It is the second Spider-Man film reboot and the 16th film in the Marvel Cinematic Universe (MCU). The film was directed by Jon Watts from a screenplay by the writing teams of Jonathan Goldstein and John Francis Daley, Watts and Christopher Ford, and Chris McKenna and Erik Sommers. It stars Tom Holland as Peter Parker / Spider-Man, alongside Michael Keaton, Jon Favreau, Gwyneth Paltrow, Zendaya, Donald Glover, Jacob Batalon, Laura Harrier, Tony Revolori, Bokeem Woodbine, Tyne Daly, Marisa Tomei, and Robert Downey Jr. In the film, Parker tries to balance high school life with being Spider-Man while facing the Vulture (Keaton). 
+
+
+### PLOT
+After the Battle of New York, Adrian Toomes turns to crime, using scavenged Chitauri technology to create advanced weapons, including a flying Vulture suit. Eight years later, Peter Parker, still in high school, juggles crime-fighting as Spider-Man while dealing with the challenges of adolescence and his secret identity. After encountering Toomes and his associates, Parker becomes embroiled in their illegal activities, eventually discovering that Toomes is the father of his crush, Liz. Parker, with the help of his friend Ned, stops Toomes's plan to hijack a DODC plane, culminating in a dramatic showdown at Coney Island. In the end, Parker saves Toomes's life, rejects a full-time Avengers offer, and keeps his Spider-Man identity hidden, with his Aunt May learning the truth about him.
